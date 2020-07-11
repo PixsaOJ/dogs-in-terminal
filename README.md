@@ -7,4 +7,5 @@
 ## Installation
 
 > `git clone https://github.com/PixsaOJ/dogs-in-terminal`
+
 > `node index` or `npm run start` or `yarn start`
