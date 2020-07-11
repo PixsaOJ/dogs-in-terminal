@@ -1,0 +1,18 @@
+{
+  "name": "dogs-in-terminal",
+  "version": "1.0.0",
+  "description": "Displays random dog image in your terminal.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": ['dog', 'terminal', 'image'],
+  "author": "PixsaOJ",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.5.0",
+    "node-fetch": "^2.6.0",
+    "terminal-image": "^1.1.0"
+  }
+}
