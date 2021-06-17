@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "type": "module",
-  "keywords": ['dog', 'terminal', 'image'],
+  "keywords": ["dog", "terminal", "image"],
   "author": "PixsaOJ",
   "license": "ISC",
   "dependencies": {
